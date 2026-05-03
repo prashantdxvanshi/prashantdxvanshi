@@ -1,17 +1,10 @@
-# 👋 Hi, I'm Prashant
 
-🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited | Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) @ Central University (IT-GGV)**
-💡 Building scalable web applications & integrating AI into real-world solutions
-
----
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (Final Year) @ Central University (IT-GGV) Bilaspur, Chhattishgarh (**CGPA: 9.67**)
-* 💻 Full Stack Developer (MERN + Next.js+ GenAI)
-* 🤖 AI/ML Engineer Intern @ IIT Bhubaneswar
-* 🌐 Interested in **Gen AI, RAG, LLMs & System Design**
-* 🎯 Goal: Build impactful scalable products & achieve financial independence
+
+🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited | Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) @ Central University (IT-GGV)**
+💡 Building scalable web applications & integrating AI into real-world solutions
 
 ---
 
