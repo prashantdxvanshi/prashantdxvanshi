@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prashant
 
-🚀 **Full Stack Developer | MERN Stack | AI/ML Enthusiast**
+🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited | Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) @ Central University (IT-GGV)**
 💡 Building scalable web applications & integrating AI into real-world solutions
 
 ---
