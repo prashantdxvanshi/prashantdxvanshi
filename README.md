@@ -131,9 +131,9 @@
 
 ## 📊 GitHub Stats
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantdxvanshi\&show_icons=true\&theme=tokyonight)
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantdxvanshi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantdxvanshi\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantdxvanshi&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prashantdxvanshi\&theme=tokyonight)
 
