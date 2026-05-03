@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (Final Year) @ Central University (IT-GGV) (**CGPA: 9.67**)
+* 🎓 B.Tech CSE (Final Year) @ Central University (IT-GGV) Bilaspur, Chhattishgarh (**CGPA: 9.67**)
 * 💻 Full Stack Developer (MERN + Next.js+ GenAI)
 * 🤖 AI/ML Engineer Intern @ IIT Bhubaneswar
 * 🌐 Interested in **Gen AI, RAG, LLMs & System Design**
