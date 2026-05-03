@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE @ Guru Ghasidas Vishwavidyalaya (**CGPA: 9.67**)
-* 💻 Full Stack Developer (MERN + Next.js)
+* 🎓 B.Tech CSE @ Central University (IT-GGV) (**CGPA: 9.67**)
+* 💻 Full Stack Developer (MERN + Next.js+ GenAI)
 * 🤖 AI/ML Engineer Intern @ IIT Bhubaneswar
 * 🌐 Interested in **Gen AI, RAG, LLMs & System Design**
 * 🎯 Goal: Build impactful scalable products & achieve financial independence
