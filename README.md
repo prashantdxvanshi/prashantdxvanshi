@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE @ Central University (IT-GGV) (**CGPA: 9.67**)
+* 🎓 B.Tech CSE (Final Year) @ Central University (IT-GGV) (**CGPA: 9.67**)
 * 💻 Full Stack Developer (MERN + Next.js+ GenAI)
 * 🤖 AI/ML Engineer Intern @ IIT Bhubaneswar
 * 🌐 Interested in **Gen AI, RAG, LLMs & System Design**
@@ -27,11 +27,13 @@
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat\&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat\&logo=python)
-![Java](https://img.shields.io/badge/-Java-red?style=flat\&logo=java)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat\&logo=cplusplus)
+![CS Fundamentals](https://img.shields.io/badge/-CS%20Fundamentals-black?style=flat&logo=bookstack)
+![C Programming](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 
 ---
 
@@ -52,6 +54,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat\&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat\&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat\&logo=database)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)
+![Mongoose](https://img.shields.io/badge/-Mongoose-red?style=flat&logo=mongoose)
 
 ---
 
