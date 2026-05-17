@@ -3,7 +3,7 @@
 ## 💫💫 About Me
 
 
-🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited | Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) highest 9.67 cgpa @ Central University (IT-GGV)**
+🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited.| Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) highest 9.67 cgpa @ Central University (IT-GGV)**
 💡 Building scalable web applications & integrating AI into real-world solutions
 
 ---
@@ -141,7 +141,7 @@
 
 ## 🏆 Achievements & Certifications
 
-* 🥇 Award of Excellence
+* 🥇 Award of Excellence from Chief Minister Yogi AdityaNath ji 
 * 📊 Deloitte Data Analytics Certificate
 * 🏅 Bhartiya Sanskriti Gyan Award
 * 🤖 AI Internship (Microsoft & SAP - AICTE)
