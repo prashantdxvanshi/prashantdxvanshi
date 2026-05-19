@@ -86,8 +86,8 @@
 ### 🧠 AI/ML Engineer Intern – IIT Bhubaneswar (Apr 2026 – Present)
 
 * Working on **LLMs, RAG & Federated Learning**
-* Applied **model compression (pruning & QAT)** to optimize performance
-* Improved model efficiency, latency & deployment
+* Applied **model compression (pruning & QAT)** to optimize performance of LLM models
+* Improved model efficiency, latency & deployment 
 
 ---
 
