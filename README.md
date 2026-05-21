@@ -22,7 +22,7 @@
 
 ![CS Fundamentals](https://img.shields.io/badge/-CS%20Fundamentals-black?style=flat&logo=bookstack)
 ![C Programming](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
+![C++ Programming](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
