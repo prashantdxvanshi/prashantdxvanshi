@@ -37,7 +37,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat\&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat\&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat\&logo=tailwind-css)
+![LangChain](https://img.shields.io/badge/-LangChain-green?style=flat&logo=chainlink)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat&logo=graphql)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat\&logo=pytorch)
+
 
 ---
 
