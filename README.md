@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PRASHANT&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=250&section=header&text=PRASHANT&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+ML+Engineer;Full+Stack+Developer;Building+Agentic+AI+Systems;Open+to+Opportunities" />
 </p>
 
 ## 💫💫 About Me
