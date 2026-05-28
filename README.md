@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PRASHANT&fontSize=40&fontColor=ffffff)
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:prashantdxvanshi1662@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=prashantdxvanshi&color=blue)
 
 
 ## 💫💫 About Me
