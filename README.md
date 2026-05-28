@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=PRASHANT; FULL+STACK+DEVELOPER; GenAI+ENGINEER;" />
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PRASHANT&fontSize=40&fontColor=ffffff)
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
