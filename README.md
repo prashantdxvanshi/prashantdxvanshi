@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Agentic+AI+Systems;AI+ML+Engineer+Intern+@IIT+BBS;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Agentic+AI+Systems;Building+RAG+Systems;AI+ML+Engineer+Intern+@IIT+BBS;Open+to+Opportunities" />
 </p>
 
 ## 💫💫 About Me
