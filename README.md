@@ -9,7 +9,7 @@
 ## 💫💫 About Me
 
 
-🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ NullClass Pvt. Limited.| Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) highest 9.67 CGPA @ A Central University, Bilaspur, Chhattisgarh (IT-GGV)**
+🚀 **AI/ML Engineer Intern @ IIT Bhubaneswar | Ex-FullStack Intern @ ElevanceClass Pvt. Limited.| Ex-WebDev Intern @ VaultofCodes | B.Tech CSE (Final Year) highest 9.67 CGPA @ A Central University, Bilaspur, Chhattisgarh (IT-GGV)**
 💡 Building scalable web applications & integrating AI tech into real-world solutions.
 
 ---
@@ -100,10 +100,10 @@
 
 ---
 
-### 🌐 Web Development Intern – NullClass Pvt. Ltd. (Nov 2025 – Apr 2026)
+### 🌐 Fullstack Development Intern – ElevanceClass Pvt. Ltd. (Nov 2025 – Apr 2026)
 
 * Developed UI components using **Next.js & TypeScript**
-* Worked on **cross-platform apps (React Native)**
+* Worked **(LangChain, Agentic AI)**
 * Collaborated with remote teams.
 
 ---
