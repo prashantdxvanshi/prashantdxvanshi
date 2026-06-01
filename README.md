@@ -50,7 +50,7 @@
 
 ---
 
-### 🗄️ Databases & Query Languages
+### 🗄️ Databases & Query Languages-
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat\&logo=mysql)
