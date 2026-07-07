@@ -149,7 +149,7 @@
 * 🥇 Award of Excellence from Chief Minister Yogi AdityaNath ji 
 * 📊 Deloitte Data Analytics Certificate
 * 🏅 Bhartiya Sanskriti Gyan Award
-* 🤖 AI Internship (Microsoft & SAP - AICTE)
+* 🤖 AI Internship (Microsoft - AICTE)
 * 🌐 Web Development Internship Certificate
 
 ---
