@@ -1,15 +1,15 @@
-<!-- Professional 3D Header -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRASHANT&fontSize=75&fontColor=FFFFFF&stroke=00F7FF&strokeWidth=2&color=0:0F2027,50:203A43,100:2C5364"
-    alt="Prashant Header"
+    src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRASHANT&fontSize=80&fontColor=FFFFFF&stroke=00F7FF&strokeWidth=2&color=0:0F2027,50:203A43,100:2C5364"
   />
 </p>
 
+<h3 align="center">
+  Full Stack Developer • AI Engineer • RAG Systems • Agentic AI
+</h3>
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Agentic+AI+Systems;Building+RAG+Applications;AI%2FML+Engineer+Intern+%40+IIT+BBS;Open+to+Opportunities"
-  />
+  AI/ML Engineer Intern @ IIT BBS | Open to Opportunities
 </p>
 
 ## 💫💫 About Me
