@@ -1,9 +1,15 @@
+<!-- Professional 3D Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=250&section=header&text=PRASHANT&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRASHANT&fontSize=75&fontColor=FFFFFF&stroke=00F7FF&strokeWidth=2&color=0:0F2027,50:203A43,100:2C5364"
+    alt="Prashant Header"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Agentic+AI+Systems;Building+RAG+Systems;AI+ML+Engineer+Intern+@IIT+BBS;Open+to+Opportunities" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=1&pause=100000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Agentic+AI+Systems;Building+RAG+Applications;AI%2FML+Engineer+Intern+%40+IIT+BBS;Open+to+Opportunities"
+  />
 </p>
 
 ## 💫💫 About Me
