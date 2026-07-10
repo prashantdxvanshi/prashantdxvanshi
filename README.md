@@ -1,16 +1,4 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRASHANT&fontSize=80&fontColor=FFFFFF&stroke=00F7FF&strokeWidth=2&color=0:0F2027,50:203A43,100:2C5364"
-  />
-</p>
 
-<h3 align="center">
-  Full Stack Developer • AI Engineer • RAG Systems • Agentic AI
-</h3>
-
-<p align="center">
-  AI/ML Engineer Intern @ IIT BBS | Open to Opportunities
-</p>
 
 ## 💫💫 About Me
 
